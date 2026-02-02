@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, PHP, Laravel**
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **any concerns you'd like to discuss with me**
 
 - 📫 How to reach me **g.alolod.558061@umindanao.edu.ph**
 
